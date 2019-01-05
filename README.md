@@ -3,7 +3,8 @@
 Portable arduino device connected to an Android Application that alerts you when you forget your phone!
 
 ## App Screen Shots
-![](Images/Connect.png =250x500)
+<img src="Images/Connect.png" width="250">
+
 
 ![](Images/Dashboard.png =250x500)
 
